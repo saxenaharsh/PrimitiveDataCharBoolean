@@ -10,7 +10,8 @@ public class Main {
         boolean isMale = true;
         System.out.println("Boolean value is " + isMale);
 
-        
+        char mySymbol = '\u00AE';
+        System.out.println("The registered symbol of a company is " + mySymbol);
         
     }
 }
